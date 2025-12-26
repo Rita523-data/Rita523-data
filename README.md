@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rita523-data/Rita523-data/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Rita Nayak</h1>
 <h3 align="center">A Data Analyst from India | Power BI • SQL • Excel • Business Insights</h3>
 
